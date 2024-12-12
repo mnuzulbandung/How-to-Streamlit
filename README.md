@@ -16,6 +16,10 @@ Streamlit bisa digunakan untuk menyelesaikan masalah di atas. Streamlit adalah l
 * **Interactivity**: Web app yang dibangun memiliki widget yang interaktif seperti slider, tombol, dan text input. Dengan ini, user dapat memilih tabel, visual, atau grafik yang ingin mereka lihat/butuh. Mereka tidak akan dipaparkan keseluruhan tabel, visual, atau grafik yang nantinya malah membingungkan mereka.
 * **App-Deployment**: Web app yang dibangun menggunakan Streamlit bisa di-deploy menggunakan [Docker](https://github.com/mnuzulbandung/How-to-Docker) atau [Hugging Face](https://github.com/mnuzulbandung/How-to-Hugging-Face/tree/main).
 
+## Berikut merupakan Web App yang dibuat menggunakan Streamlit dan di-deploy menggunakan Hugging Face
+
+[Product_Type_Recommendation](https://huggingface.co/spaces/mnuzulbandung/DL_NLP)
+
 ## Eksplor repo ini untuk melihat cara menggunakan Streamlit
 
 [Sumber](https://www.geeksforgeeks.org/a-beginners-guide-to-streamlit/)

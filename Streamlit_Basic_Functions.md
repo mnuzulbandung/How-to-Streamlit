@@ -102,7 +102,7 @@ user_input = st.text_area('Input your text here:')
 ```
 atau
 ```python
-user_input = st.text_input('Input your text here:', “Default/Sample Variable”)
+user_input = st.text_input('Input your text here:', 'Default/Sample Variable')
 ```
 
 * Input variabel berdasarkan pilihan
@@ -135,4 +135,3 @@ if st.form_submit_button('Press This Button to Execute Function'):
     function_result = function()
     st.write(f'Result: {function_result}')
 ```
-
